@@ -1,3 +1,7 @@
+# note to me
+we're gonna go through the basics, we last left off here: https://learn.svelte.dev/tutorial/keyed-each-blocks
+notes are in yellow legal pad not white notebook
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
